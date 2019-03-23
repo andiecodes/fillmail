@@ -1,6 +1,6 @@
 javascript:void(function(d) {
   var body = d.getElementsByTagName('body')[0],
       script = d.createElement('script');
-      script.src = 'https://cdn.jsdelivr.net/gh/andiecodes/fillmail@19e6f23c49f360734f6bf271cea569de630269fb/iM.js';
+      script.src = 'https://cdn.jsdelivr.net/gh/andiecodes/fillmail@5338cd619d6adb2fe885e96151ca74939772d74c/iM.js';
       body.appendChild(script);
 }(window.document));
